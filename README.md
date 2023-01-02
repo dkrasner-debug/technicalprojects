@@ -1,5 +1,4 @@
-# technicalprojects
-Technical Projects
+# Technical Projects
 
 [Customer Attrition Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329717/Customer.Attrition.-.Where.to.Focus.pdf)
 
