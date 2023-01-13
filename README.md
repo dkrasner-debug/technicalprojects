@@ -7,3 +7,6 @@
 
 
 [Targeted Market Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329720/Krasner_AirBnB_Presentation.Excel.pdf)
+
+
+[Tableau Dashboard & Story Modeling Voter Turnout/Suppression in Georgia](https://prod-useast-a.online.tableau.com/#/site/dkpersonal/workbooks/819610/views)
