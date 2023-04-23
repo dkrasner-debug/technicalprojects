@@ -3,7 +3,7 @@
 [Customer Attrition Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329717/Customer.Attrition.-.Where.to.Focus.pdf)
 Research Question: Customers are not renewing their service with us - why not? How might we as a business be able to better retain customers?
 
-Tools: Python, Excel
+Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/9d5625b98a1e103113b08ba6e0ba5625cf31b5d1/CustomerAttrition_PreparatoryNotebook.ipynb), Excel
 
 
 [Product Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329719/Krasner_IowaLiquorStores_Presentation.SQL.Excel.pdf)
