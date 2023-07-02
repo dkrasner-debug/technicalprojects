@@ -9,7 +9,7 @@ Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/9d5625b
 [Product Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329719/Krasner_IowaLiquorStores_Presentation.SQL.Excel.pdf)
 Research Question: What product should this Iowa liquor company push based on sales and store data across the state? Why?
 
-Tools: SQL, Excel
+Tools: [SQL](https://bouncy-shoulder-4e3.notion.site/SQL-Project-Iowa-Liquor-Sales-GitHub-1fdc11634f1744a1810181f89d6113da), Excel
 
 
 [Market Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329720/Krasner_AirBnB_Presentation.Excel.pdf)
