@@ -1,6 +1,6 @@
 # Technical Projects
 
-## [Regression Analysis and Research Methodology - Multi and Bivariate](https://github.com/dkrasner-debug/technicalprojects/blob/6149eb8ff26cd89793a25c2c2d53011874947a28/Typical%20Home%20Price%20%26%20Neighborhood%20Change%20in%20Atlanta.pdf)
+## [Regression Analysis and Research Methodology - Multi and Bivariate](https://github.com/dkrasner-debug/technicalprojects/blob/7869127ff93f60e3becbdfeb7fbb17755e51249b/Typical%20Home%20Price%20%26%20Neighborhood%20Change%20in%20Atlanta.pdf)
 ### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information?_
 
 Tools: SPSS, Google Sheets
