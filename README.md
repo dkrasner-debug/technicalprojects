@@ -1,5 +1,11 @@
 # Technical Projects
 
+## [Mapping Low-Income Housing Tax Credit (LIHTC) Properties in Atlanta](https://github.com/dkrasner-debug/technicalprojects/blob/main/GIS%20Final%20Project.pdf)
+### Research Question: _Where are LIHTC properties located in Atlanta? When are they slated to expire? What are some demographic characteristics of the census block groups where LIHTC properties are located? How is this related to concerns about concentrating poverty?_
+
+Tools: ArcGIS Pro, Python
+
+
 ## [Regression Analysis and Research Methodology - Multi and Bivariate](https://github.com/dkrasner-debug/technicalprojects/blob/7869127ff93f60e3becbdfeb7fbb17755e51249b/Typical%20Home%20Price%20%26%20Neighborhood%20Change%20in%20Atlanta.pdf)
 ### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information?_
 
