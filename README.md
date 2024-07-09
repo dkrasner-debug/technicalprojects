@@ -1,7 +1,7 @@
 # Technical Projects
 
-## Web Scraping Real Estate News from Urbanize Atlanta
-### Research Question: _How can a data frame of all articles on Urbanie Atlanta be compiled through web scraping the internet archive? Are there any trends that can be observed from web scraping or further places for analysis? Note: This was part of a school project._
+## Web Scraping Real Estate News from [Urbanize Atlanta] (https://atlanta.urbanize.city/)
+### Research Question: _How can a data frame of all articles on Urbanie Atlanta be compiled through web scraping [the internet archive] (https://web.archive.org/web/20240705180629/https://atlanta.urbanize.city/)? Are there any trends that can be observed from web scraping or further places for analysis? Note: This was part of a school project._
 Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Urbanize%20Atlanta%20Webscrape%20(School).ipynb)
 
 
