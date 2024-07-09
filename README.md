@@ -6,7 +6,7 @@ _This project includes a [basic methodology](https://github.com/dkrasner-debug/t
 
 Note: This was part of an internship done at HUD for my graduate program.
 
-Tools: [Python]([https://github.com/dkrasner-debug/technicalprojects/blob/main/Urbanize%20Atlanta%20Webscrape%20(School).ipynb](https://github.com/dkrasner-debug/technicalprojects/blob/main/508_scrape_updated.ipynb))
+Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/508_scrape_updated.ipynb)
 
 
 ## Web Scraping Real Estate News from [Urbanize Atlanta](https://atlanta.urbanize.city/)
