@@ -28,7 +28,7 @@ Tools: ArcGIS Pro, [Python](https://github.com/dkrasner-debug/technicalprojects/
 ## [Economic Feasibility Scenario - Community Development and Affordable Housing Finance](https://github.com/dkrasner-debug/technicalprojects/blob/main/URB%208680%20Final%20Project%20Presentation.pdf)
 ### Research Question: _Given a particular scenario, created a feasible financial model (sources & uses, pro forma, etc.) for hypothetical LIHTC development._
 
-Note: This was part of a group school project. I was specifically responsible for the analyses that went into slides 8 and 13, which are the real estate pro formas.
+Note: This was part of a group school project. I was specifically responsible for the analyses that went into slides 8, 10, 13, and 14 which are the real estate pro formas and corresponding profit / loss ratios.
 
 Tools: Excel
 
