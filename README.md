@@ -5,6 +5,7 @@
 _This project includes a [basic methodology](https://github.com/dkrasner-debug/technicalprojects/blob/main/Methodological%20Overview.docx) and a [proposed set of next steps](https://github.com/dkrasner-debug/technicalprojects/blob/main/Project%20Proposal.docx), both of which can be accessed via download by clicking the "raw" button._
 
 Note: This was part of an internship done at HUD for my graduate program.
+
 Tools: [Python]([https://github.com/dkrasner-debug/technicalprojects/blob/main/Urbanize%20Atlanta%20Webscrape%20(School).ipynb](https://github.com/dkrasner-debug/technicalprojects/blob/main/508_scrape_updated.ipynb))
 
 
@@ -12,6 +13,7 @@ Tools: [Python]([https://github.com/dkrasner-debug/technicalprojects/blob/main/U
 ### Research Question: _How can a data frame of all articles on Urbanie Atlanta be compiled through web scraping [the internet archive](https://web.archive.org/web/20240705180629/https://atlanta.urbanize.city/)? Are there any trends that can be observed from web scraping or further places for analysis?_
 
 Note: This was part of a school project.
+
 Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Urbanize%20Atlanta%20Webscrape%20(School).ipynb)
 
 
@@ -19,6 +21,7 @@ Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Ur
 ### Research Question: _Where are LIHTC properties located in Atlanta? When are they slated to expire? What are some demographic characteristics of the census block groups where LIHTC properties are located? How is this related to concerns about concentrating poverty?_
 
 Note: This was part of a school project.
+
 Tools: ArcGIS Pro, [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Final%20Project%2C%20LIHTC%20Code.ipynb)
 
 
@@ -26,6 +29,7 @@ Tools: ArcGIS Pro, [Python](https://github.com/dkrasner-debug/technicalprojects/
 ### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information?_
 
 Note: This was part of a school project.
+
 Tools: SPSS, Google Sheets
 
 
@@ -39,6 +43,7 @@ Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/9d5625b
 ### Research Question: _What product should this Iowa liquor company push based on sales and store data across the state? Why?_
 
 Note: This was part of a General Assembly project.
+
 Tools: [SQL](https://bouncy-shoulder-4e3.notion.site/SQL-Project-Iowa-Liquor-Sales-GitHub-1fdc11634f1744a1810181f89d6113da), Excel
 
 
@@ -46,6 +51,7 @@ Tools: [SQL](https://bouncy-shoulder-4e3.notion.site/SQL-Project-Iowa-Liquor-Sal
 ### Research Question: _What is the best location in DC in which to invest in an AirBnB? Why?_
 
 Note: This was part of a General Assembly project.
+
 Tools: Excel
 
 
@@ -53,4 +59,5 @@ Tools: Excel
 ### Research Question: _Is there a way to visualize the active and inactive voter population in the state of Georgia by county? How might we be able to model this information based on publicly accessible data?_
 
 Note: This was part of a General Assembly project.
+
 Tools: Tableau, Excel
