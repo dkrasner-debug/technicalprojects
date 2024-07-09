@@ -25,6 +25,14 @@ Note: This was part of a school project.
 Tools: ArcGIS Pro, [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Final%20Project%2C%20LIHTC%20Code.ipynb)
 
 
+## [Economic Feasibility Scenario - Community Development and Affordable Housing Finance](https://github.com/dkrasner-debug/technicalprojects/blob/main/URB%208680%20Final%20Project%20Presentation.pdf)
+### Research Question: _Given a particular scenario, created a feasible financial model (sources & uses, pro forma, etc.) for hypothetical LIHTC development._
+
+Note: This was part of a group school project. I was specifically responsible for the analyses that went into slides 8 and 13, which are the real estate pro formas.
+
+Tools: Excel
+
+
 ## [Regression Analysis and Research Methodology - Multi and Bivariate](https://github.com/dkrasner-debug/technicalprojects/blob/7869127ff93f60e3becbdfeb7fbb17755e51249b/Typical%20Home%20Price%20%26%20Neighborhood%20Change%20in%20Atlanta.pdf)
 ### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information?_
 
