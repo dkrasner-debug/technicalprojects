@@ -1,13 +1,18 @@
 # Technical Projects
 
+## Web Scraping Real Estate News from Urbanize Atlanta
+### Research Question: _How can a data frame of all articles on Urbanie Atlanta be compiled through web scraping the internet archive? Are there any trends that can be observed from web scraping or further places for analysis? Note: This was part of a school project._
+Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Urbanize%20Atlanta%20Webscrape%20(School).ipynb)
+
+
 ## [Mapping Low-Income Housing Tax Credit (LIHTC) Properties in Atlanta](https://github.com/dkrasner-debug/technicalprojects/blob/main/GIS%20Final%20Project.pdf)
-### Research Question: _Where are LIHTC properties located in Atlanta? When are they slated to expire? What are some demographic characteristics of the census block groups where LIHTC properties are located? How is this related to concerns about concentrating poverty?_
+### Research Question: _Where are LIHTC properties located in Atlanta? When are they slated to expire? What are some demographic characteristics of the census block groups where LIHTC properties are located? How is this related to concerns about concentrating poverty? Note: This was part of a school project._
 
 Tools: ArcGIS Pro, [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/Final%20Project%2C%20LIHTC%20Code.ipynb)
 
 
 ## [Regression Analysis and Research Methodology - Multi and Bivariate](https://github.com/dkrasner-debug/technicalprojects/blob/7869127ff93f60e3becbdfeb7fbb17755e51249b/Typical%20Home%20Price%20%26%20Neighborhood%20Change%20in%20Atlanta.pdf)
-### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information?_
+### Research Question: _What variables of social and demographic change in neighborhoods in Atlanta are associated with the rate at which the average typical home value increased? Can predictive models be built using this information? Note: This was part of a school project._
 
 Tools: SPSS, Google Sheets
 
@@ -19,13 +24,13 @@ Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/9d5625b
 
 
 ## [Product Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329719/Krasner_IowaLiquorStores_Presentation.SQL.Excel.pdf)
-### Research Question: _What product should this Iowa liquor company push based on sales and store data across the state? Why?_
+### Research Question: _What product should this Iowa liquor company push based on sales and store data across the state? Why? Note: This was part of a General Assembly project._
 
 Tools: [SQL](https://bouncy-shoulder-4e3.notion.site/SQL-Project-Iowa-Liquor-Sales-GitHub-1fdc11634f1744a1810181f89d6113da), Excel
 
 
 ## [Market Analysis](https://github.com/dkrasner-debug/technicalprojects/files/10329720/Krasner_AirBnB_Presentation.Excel.pdf)
-### Research Question: _What is the best location in DC in which to invest in an AirBnB? Why?_
+### Research Question: _What is the best location in DC in which to invest in an AirBnB? Why? Note: This was part of a General Assembly project._
 
 Tools: Excel
 
