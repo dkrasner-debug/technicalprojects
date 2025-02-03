@@ -1,5 +1,12 @@
 # Technical Projects
 
+## Grocer Distribution in the City of Atlanta
+### Research Question: _Where are grocers within the city of Atlanta? How are they distributed by [Neighborhood Planning Units](https://dkrasner-debug.github.io/technicalprojects/npu_custom_popup_map.html), [City Council Districts](https://dkrasner-debug.github.io/technicalprojects/city_council_custom_popup_map.html), and [City Quadrants](https://dkrasner-debug.github.io/technicalprojects/quadrants_custom_popup_map.html)? What patterns of uneven access to food mnight thhre be as a result?_
+
+Note: This is part of an ongoing project for the [@data.urbanist() Instagram](https://www.instagram.com/data.urbanist/#) and [Substack](https://dataurbanist.substack.com/about)
+
+Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/atl_grocers_html_substackgithubready.ipynb), with HTML visualizations linked above for each geographic boundary.
+
 ## Scoping Section 508 Compliance with the US Department of Housing and Urban Development
 ### Research Question: _In order to begin preparing for [Section 508 Digital Accessibility requirements coming from the White House](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/), I was asked by HUD to perform a preliminary analysis of some of their main policy handbooks, mapping the website structure along the way. Within this, I was able to conduct a first audit, identifying policies and webpages that that require updating to meet compliance in the future._
 _This project includes a [basic methodology](https://github.com/dkrasner-debug/technicalprojects/blob/main/Methodological%20Overview.docx) and a [proposed set of next steps](https://github.com/dkrasner-debug/technicalprojects/blob/main/Project%20Proposal.docx), both of which can be accessed via download by clicking the "raw" button._
