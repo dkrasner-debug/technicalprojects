@@ -15,6 +15,12 @@ Note: This was part of an internship done at HUD for my graduate program.
 
 Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/508_scrape_updated.ipynb)
 
+## [Aging in Place in Atlanta - Creating a Composite Spatial Index](https://github.com/dkrasner-debug/technicalprojects/blob/main/transport_gis_final.pdf)
+### Research Question: _Where are majority-senior affordable housing developments in Atlanta? How accessible are they to MARTA rail transit, grocery stores, and health facilities? What does this look like as a weighted spatial index? Where are the best positioned majority-senior affordable housing developments in Atlanta?_
+
+Note: This was part of a school project.
+
+Tools: ArcGIS Pro, Python
 
 ## Web Scraping Real Estate News from [Urbanize Atlanta](https://atlanta.urbanize.city/)
 ### Research Question: _How can a data frame of all articles on Urbanie Atlanta be compiled through web scraping [the internet archive](https://web.archive.org/web/20240705180629/https://atlanta.urbanize.city/)? Are there any trends that can be observed from web scraping or further places for analysis?_
