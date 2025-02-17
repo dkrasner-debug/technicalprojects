@@ -15,6 +15,13 @@ Note: This was part of an internship done at HUD for my graduate program.
 
 Tools: [Python](https://github.com/dkrasner-debug/technicalprojects/blob/main/508_scrape_updated.ipynb)
 
+## [Can Street Networks Predict Neighborhood Change in Atlanta? And the Employment of K-Means Algorithm to Classify Neighborhood Change Typologies](https://github.com/dkrasner-debug/technicalprojects/blob/main/urban_policy_analytics_final.pdf)
+### Research Question: _We know many social predictors of neighborhood change from gentrification literature and work such as the Urban Displacement Project. But do physical characteristics such as street network density relate to neighborhood change? What how would we classify the types of neighborhood change that occur in Atlanta?_
+
+Note: This was part of a school project.
+
+Tools: ArcGIS Pro, Python
+
 ## [Aging in Place in Atlanta - Creating a Composite Spatial Index](https://github.com/dkrasner-debug/technicalprojects/blob/main/transport_gis_final.pdf)
 ### Research Question: _Where are majority-senior affordable housing developments in Atlanta? How accessible are they to MARTA rail transit, grocery stores, and health facilities? What does this look like as a weighted spatial index? Where are the best positioned majority-senior affordable housing developments in Atlanta?_
 
