@@ -25,7 +25,7 @@ Tools: ArcGIS Pro, Python
 ## [Aging in Place in Atlanta - Creating a Composite Spatial Index](https://github.com/dkrasner-debug/technicalprojects/blob/main/transport_gis_final.pdf)
 ### Research Question: _Where are majority-senior affordable housing developments in Atlanta? How accessible are they to MARTA rail transit, grocery stores, and health facilities? What does this look like as a weighted spatial index? Where are the best positioned majority-senior affordable housing developments in Atlanta?_
 
-Note: This was part of a school project. The methodology and written summary can be read [here] (https://docs.google.com/document/d/1aA_sfTIusDJuB3TpZwI9XG9hMezFtMdLx3lQ83GS2nE/edit?tab=t.0#heading=h.bep6208hvb9b).
+Note: This was part of a school project. The methodology and written summary can be read [here](https://docs.google.com/document/d/1aA_sfTIusDJuB3TpZwI9XG9hMezFtMdLx3lQ83GS2nE/edit?tab=t.0#heading=h.bep6208hvb9b).
 
 Tools: ArcGIS Pro, Python
 
