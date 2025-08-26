@@ -1,5 +1,12 @@
 # Technical Projects
 
+## Housing Density and Grocer Options around the Beltline
+### Research Question: _What does housing density look like within 15 minutes of walking distance from the access points of the Beltline?_
+
+Note: This was done as a visualization for MARTA Army and Beltline Rail Now in early 2025 and was placed on the desks of Mayor Andre Dickens' and his team during a period where Eastside Beltline Rail was being considered. The future of that project - as well as the access points along the Beltline - may be different and outdated as time passes.
+
+Tools: Python, ArcGIS Pro
+
 ## Grocer Distribution in the City of Atlanta
 ### Research Question: _Where are grocers within the city of Atlanta? How are they distributed by [Neighborhood Planning Units](https://dkrasner-debug.github.io/technicalprojects/npu_custom_popup_map.html), [City Council Districts](https://dkrasner-debug.github.io/technicalprojects/city_council_custom_popup_map.html), and [City Quadrants](https://dkrasner-debug.github.io/technicalprojects/quadrants_custom_popup_map.html)? What patterns of uneven access to food mnight thhre be as a result?_
 
