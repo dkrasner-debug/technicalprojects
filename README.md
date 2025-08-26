@@ -1,9 +1,9 @@
 # Technical Projects
 
-## Housing Density and Grocer Options around the Beltline
+## [Housing Density and Grocer Options around the Beltline](https://dkrasner-debug.github.io/technicalprojects/beltline_density_map_early2025.html)
 ### Research Question: _What does housing density look like within 15 minutes of walking distance from the access points of the Beltline?_
 
-Note: This was done as a visualization for MARTA Army and Beltline Rail Now in early 2025 and was placed on the desks of Mayor Andre Dickens' and his team during a period where Eastside Beltline Rail was being considered. The future of that project - as well as the access points along the Beltline - may be different and outdated as time passes.
+Note: This interactive map was done as a visualization for MARTA Army and Beltline Rail Now in early 2025 and was placed on the desks of Mayor Andre Dickens' and his team during a period where Eastside Beltline Rail was being considered. The future of that project - as well as the access points along the Beltline - may be different and outdated as time passes.
 
 Tools: Python, ArcGIS Pro
 
